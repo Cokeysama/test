@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    padding: 1vw 5vw;
+}
+.prefectures_box{
+    display: flex;   
+    flex-wrap:wrap;
+}
+.select_box{
+    margin:1vw 0vw;
+}
+.prefectures_box p{
+    width:14vw;
+    margin-bottom: 1vw;
+}
+.prefectures_box p label{
+    cursor: pointer;
+} 
